@@ -5,11 +5,24 @@
     <classes>
       <class name="testNgPack.Test1"/>
       <class name="testNgPack.Test2"/>
+      <class name="testNgPack.Test4">
+		  <!-- How to Includ test Case-->
+		  <methods>
+			  <include name="ApiLoginHome"></include>
+		  </methods>
+	  </class>
     </classes>
   </test> 
   <test name="Car Test">
 	  <classes>
-		  <class name="testNgPack.Test3"></class>
+		 <!--  <class name="testNgPack.Test3"></class>-->
+		 
+		 <!-- How to Exclud and Includ Class Under Methods-->
+		 <class name="testNgPack.Test3">
+			  <methods>
+				  <exclude name="ApiLoginCar"></exclude>
+			  </methods>
+		  </class>
 	  </classes>
   </test>
 </suite> 

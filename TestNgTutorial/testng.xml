@@ -7,4 +7,9 @@
       <class name="testNgPack.Test2"/>
     </classes>
   </test> 
+  <test name="Car Test">
+	  <classes>
+		  <class name="testNgPack.Test3"></class>
+	  </classes>
+  </test>
 </suite> 

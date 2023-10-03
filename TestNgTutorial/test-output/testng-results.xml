@@ -1,45 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-02T17:53:06 IST" name="Test Suite" finished-at="2023-10-02T17:53:06 IST" duration-ms="199">
+  <suite started-at="2023-10-03T16:03:53 IST" name="Test Suite" finished-at="2023-10-03T16:03:53 IST" duration-ms="14">
     <groups>
     </groups>
-    <test started-at="2023-10-02T17:53:06 IST" name="Personal" finished-at="2023-10-02T17:53:06 IST" duration-ms="74">
-      <class name="testNgPack.Test4">
-        <test-method signature="ApiLoginHome()[pri:0, instance:testNgPack.Test4@2f217633]" started-at="2023-10-02T17:53:06 IST" name="ApiLoginHome" finished-at="2023-10-02T17:53:06 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ApiLoginHome -->
-      </class> <!-- testNgPack.Test4 -->
-      <class name="testNgPack.Test1">
-        <test-method signature="Demo()[pri:0, instance:testNgPack.Test1@4d0f2471]" started-at="2023-10-02T17:53:06 IST" name="Demo" finished-at="2023-10-02T17:53:06 IST" duration-ms="11" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Demo -->
-        <test-method signature="demo2()[pri:0, instance:testNgPack.Test1@4d0f2471]" started-at="2023-10-02T17:53:06 IST" name="demo2" finished-at="2023-10-02T17:53:06 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- demo2 -->
-      </class> <!-- testNgPack.Test1 -->
-      <class name="testNgPack.Test2">
-        <test-method signature="Demo3()[pri:0, instance:testNgPack.Test2@48f278eb]" started-at="2023-10-02T17:53:06 IST" name="Demo3" finished-at="2023-10-02T17:53:06 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Demo3 -->
-      </class> <!-- testNgPack.Test2 -->
+    <test started-at="2023-10-03T16:03:53 IST" name="Personal" finished-at="2023-10-03T16:03:53 IST" duration-ms="14">
     </test> <!-- Personal -->
-    <test started-at="2023-10-02T17:53:06 IST" name="Car Test" finished-at="2023-10-02T17:53:06 IST" duration-ms="16">
-      <class name="testNgPack.Test3">
-        <test-method signature="MobileLoginCar()[pri:0, instance:testNgPack.Test3@6bd61f98]" started-at="2023-10-02T17:53:06 IST" name="MobileLoginCar" finished-at="2023-10-02T17:53:06 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- MobileLoginCar -->
-        <test-method signature="WebLoginCar()[pri:0, instance:testNgPack.Test3@6bd61f98]" started-at="2023-10-02T17:53:06 IST" name="WebLoginCar" finished-at="2023-10-02T17:53:06 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- WebLoginCar -->
-      </class> <!-- testNgPack.Test3 -->
-    </test> <!-- Car Test -->
   </suite> <!-- Test Suite -->
 </testng-results>

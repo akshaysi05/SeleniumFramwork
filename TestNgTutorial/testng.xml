@@ -20,7 +20,8 @@
 		 <!-- How to Exclud and Includ Class Under Methods-->
 		 <class name="testNgPack.Test3">
 			  <methods>
-				  <exclude name="ApiLoginCar"></exclude>
+				  <exclude name="ApiLoginCar"></exclude> <!-- In This Case We Can Avooid Only One Methods In A class-->
+				  <exclude name="Api.*"></exclude> <!-- In This Cass We Can Avoid All The Methods That Methdos Start With API In Test 3 class-->
 			  </methods>
 		  </class>
 	  </classes>

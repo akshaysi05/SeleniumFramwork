@@ -12,6 +12,14 @@ public class Test3 {
 	public void ApiLoginCar() {
       System.out.println("ApiLoginCar");
 	}
+    @Test
+	public void ApiLoginCar1() {
+      System.out.println("ApiLoginCar");
+	}
+    @Test
+	public void ApiLoginCar2() {
+      System.out.println("ApiLoginCar");
+	}
    @Test
 	public void MobileLoginCar() {
      System.out.println("MobileLoginCar");
